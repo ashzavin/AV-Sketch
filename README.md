@@ -9,7 +9,7 @@
 
 2. **To build the project in a Meta Quest Headset:**
     - Go to **File** --> **Build Settings**.
-    - Choose the Platform as **"Android"** and set Texture Compression to **"ASTC."**
+    - Switch the Platform to **"Android"** and set Texture Compression to **"ASTC."**
     - *(Optional)* Based on your settings, you may also need to change this: 
         - Go to **File** --> **Build Settings** --> **Player Settings** --> **Other Settings** --> **Configuration** --> **Scripting Backend** --> **Mono** (currently set as **"IL2CPP"**).
 
